@@ -1,0 +1,8 @@
+movimiento reina validados
+movimiento peon validados
+
+comidas entre peon validados
+comida entre peon y reina validados
+comida entre reinas validados
+mensaje de ganado validado
+barra de fichas comidas validados
